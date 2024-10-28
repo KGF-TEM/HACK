@@ -1,4 +1,13 @@
 # HACK
+### Installation Commands
+* ```apt update```
+* ```apt install git wget proot -y```
+* ```git clone https://github.com/htr-tech/ubuntu```
+* ```cd ubuntu```
+* ```chmod +x ubuntu.sh```
+* ```bash ubuntu.sh```
+
+### Single Command
 ### Hi there 👋 KAlYAN I'M 
 
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
