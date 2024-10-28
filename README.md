@@ -1,11 +1,11 @@
 # HACK
 ### Installation Commands
-* ```git clone https://github.com/KGF-TEM/HACK/tree/main```
+* ```git clone https://github.com/KGF-TEM/HACK.git```
 * ```cd HACK```
 * ```ruby HACk-KGF.rb```
 ### Single Command
 ```
-git clone https://github.com/KGF-TEM/HACK/tree/main
+git clone https://github.com/KGF-TEM/HACK.git
 cd HACK
 ruby HACk-KGF.rb
 ```
