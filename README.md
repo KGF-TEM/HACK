@@ -1,11 +1,8 @@
 # HACK
 ### Installation Commands
-* ```apt update```
-* ```apt install git wget proot -y```
-* ```git clone https://github.com/htr-tech/ubuntu```
-* ```cd ubuntu```
-* ```chmod +x ubuntu.sh```
-* ```bash ubuntu.sh```
+* ```git clone https://github.com/KGF-TEM/HACK/tree/main```
+* ```cd HACK```
+* ```ruby HACk-KGF.rb```
 
 ### Single Command
 ### Hi there 👋 KAlYAN I'M 
