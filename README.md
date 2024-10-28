@@ -3,7 +3,12 @@
 * ```git clone https://github.com/KGF-TEM/HACK/tree/main```
 * ```cd HACK```
 * ```ruby HACk-KGF.rb```
-
+### Single Command
+```
+git clone https://github.com/KGF-TEM/HACK/tree/main
+cd HACK
+ruby HACk-KGF.rb
+```
 ### Single Command
 ### Hi there 👋 KAlYAN I'M 
 
